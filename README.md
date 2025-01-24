@@ -18,4 +18,4 @@ A modern, responsive landing page for Huddle - a platform for building communiti
 - Google Fonts (Poppins, Open Sans)
 
 ## Live Preview
-[View Live Site](your-site-url)
+[View Live Site](https://career-bootcamp-html-css.netlify.app/)
